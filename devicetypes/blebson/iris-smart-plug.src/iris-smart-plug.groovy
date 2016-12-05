@@ -17,7 +17,7 @@
  */
 metadata {
 	// Automatically generated. Make future change here.
-	definition (name: "SmartPower Outlet", namespace: "blebson", author: "SmartThings") {
+	definition (name: "SmartPower Outlet", namespace: "arcanericky", author: "SmartThings") {
 		capability "Actuator"
 		capability "Switch"
 		capability "Power Meter"
